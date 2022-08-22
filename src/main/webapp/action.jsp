@@ -35,7 +35,7 @@
 													"'" + custname +"'," + 
 													"'" + phone + "'," +
 													"'" + address + "'," +
-													"TO_DATE('" + joindate + "', 'yyy-MM-dd')," + 
+													"TO_DATE('" + joindate + "', 'yyyy-MM-dd')," + 
 													"'" + grade + "'," +
 													"'" + city + "')" ;
 					
